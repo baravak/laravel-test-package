@@ -1,0 +1,19 @@
+{
+    "name": "majazeh/dashboard",
+    "description": "Majazeh dashboard",
+    "type": "laravel",
+    "license": "The Unlicense",
+    "authors": [
+        {
+            "name": "baravak",
+            "email": "itb.baravak@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Majazeh\\dashboard\\": "src/"
+        }
+    }
+}
