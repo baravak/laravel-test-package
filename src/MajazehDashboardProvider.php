@@ -13,6 +13,7 @@ class MajazehDashboardProvider extends ServiceProvider
     public function boot()
     {
         require __DIR__.'/routes/web.php';
+        $this->loadMigrationsFrom(__DIR__.'/migrations');
     }
 
     /**
