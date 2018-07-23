@@ -2,7 +2,7 @@
     "name": "majazeh/dashboard",
     "description": "Majazeh dashboard",
     "type": "laravel",
-    "license": "The Unlicense",
+    "license": "MIT",
     "authors": [
         {
             "name": "baravak",
